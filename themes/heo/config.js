@@ -21,7 +21,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '学习与生活',
   HEO_HERO_TITLE_3: 'YDCFAS.CN',
-  HEO_HERO_TITLE_4: '新版上线',
+  HEO_HERO_TITLE_4: '喜欢您来',
   HEO_HERO_TITLE_5: '跳转至我的博客',
   HEO_HERO_TITLE_LINK: 'https://blog.ydcfas.cn',
   // 英雄区遮罩文字
