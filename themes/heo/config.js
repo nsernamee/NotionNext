@@ -28,8 +28,8 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '技术分享', url: '/https://blog.ydcfas.cn/category/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB' },
-  HEO_HERO_CATEGORY_2: { title: '知识学习', url: '/https://blog.ydcfas.cn/category/%E7%9F%A5%E8%AF%86%E5%AD%A6%E4%B9%A0' },
+  HEO_HERO_CATEGORY_1: { title: '技术分享', url: 'https://blog.ydcfas.cn/category/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB' },
+  HEO_HERO_CATEGORY_2: { title: '知识学习', url: 'https://blog.ydcfas.cn/category/%E7%9F%A5%E8%AF%86%E5%AD%A6%E4%B9%A0' },
   HEO_HERO_CATEGORY_3: { title: '生活小记', url: 'https://blog.ydcfas.cn/category/%E7%94%9F%E6%B4%BB%E5%B0%8F%E8%AE%B0' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
