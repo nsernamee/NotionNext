@@ -30,7 +30,7 @@ const CONFIG = {
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '技术分享', url: '/tag/技术分享' },
   HEO_HERO_CATEGORY_2: { title: '知识学习', url: '/tag/知识学习' },
-  HEO_HERO_CATEGORY_3: { title: '生活胶片', url: '/tag/生活胶片' },
+  HEO_HERO_CATEGORY_3: { title: '生活小记', url: 'https://blog.ydcfas.cn/category/%E7%94%9F%E6%B4%BB%E5%B0%8F%E8%AE%B0' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
